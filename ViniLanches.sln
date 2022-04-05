@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViniLanches", "ViniLanches\ViniLanches.csproj", "{52D1529B-8134-4849-B4C9-6CB61D2FCDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D1529B-8134-4849-B4C9-6CB61D2FCDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D1529B-8134-4849-B4C9-6CB61D2FCDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D1529B-8134-4849-B4C9-6CB61D2FCDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D1529B-8134-4849-B4C9-6CB61D2FCDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CB2B4BA-571A-4A49-BC7B-C0B9B08EB0CA}
+	EndGlobalSection
+EndGlobal
