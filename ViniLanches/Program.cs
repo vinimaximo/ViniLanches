@@ -10,7 +10,7 @@ namespace ViniLanches
     {
        struct Pedidos 
         {
-            public string Cliente;
+        public string Cliente;
         public string Nome;
         public string Código;
         public string Valor;
